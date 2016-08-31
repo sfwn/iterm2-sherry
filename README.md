@@ -1,7 +1,13 @@
 # iTerm2-sherry-colors
 🌸 This is an iTerm2 color scheme based on [Snazzy HyperTerm theme for HyperTerm](https://github.com/sindresorhus/hyperterm-snazzy).
 
+> custom ⬇️
+
 ![terminal](http://ww3.sinaimg.cn/large/006tNc79gw1f76j88xye5j31b80z4tia.jpg)
+
+> more comfortable ⬇️
+
+![terminal-grey](http://ww1.sinaimg.cn/large/801b780agw1f7d595faoaj216s0x8dm5.jpg)
 
 ## How to use it
 
