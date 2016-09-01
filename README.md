@@ -16,7 +16,7 @@
 3. Click *Load Presets...*
 4. Click *Import...*
 5. Select the `sherry-colors.itermcolors` file
-5. Select the *sherry-colors.itermcolors* from *Load Presets...*
+6. Select the *sherry-colors.itermcolors* from *Load Presets...*
 
 ## Setup from Screenshots
 - ZSH-Prompt: [Pure prompt](https://github.com/sindresorhus/pure) by [Sindre Sorhus](https://github.com/sindresorhus)
